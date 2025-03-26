@@ -1,0 +1,2 @@
+# sinapsis-recursos
+logo-web
